@@ -38,15 +38,15 @@ canvas:hover{
 
 #game{
   position: relative;
-  height: 540px;
-  width: 860px;
+  height: 760px;
+  width: 1080px;
   margin: 0 auto;
 }
 
 #TTT{
   position: relative;
-  height: 540px;
-  width: 540px;
+  height: 760px;
+  width: 760px;
   margin: 0 auto;
   display: inline-block;
   float: left;
